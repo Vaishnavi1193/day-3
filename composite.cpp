@@ -1,4 +1,4 @@
-[10:11 am, 28/09/2022] Suvalakshmi ??: #include <iostream>
+#include <iostream>
 using namespace std;
 int main() {
   int low, high, i;
